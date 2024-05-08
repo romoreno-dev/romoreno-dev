@@ -64,7 +64,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romoreno-dev&theme=algolia&hide_border=true&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=romoreno&theme=algolia&hide_border=true&layout=compact&rank_icon=github)
+![](https://github-readme-stats.vercel.app/api?username=romoreno-dev&theme=algolia&hide_border=true&layout=compact&rank_icon=github)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=romoreno-dev&theme=algolia&hide_border=false)<br/>
 
