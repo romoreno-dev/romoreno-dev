@@ -9,18 +9,10 @@
 - 📫 Reach me on: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertomoreno/)
 
 - <h3 align="left">About me:</h3>
-[42 School Profile](#profile)  
 [Skills and tools](#skills)  
 [Github info](#github)  
+[42 School Profile](#profile)  
 
-<div id='profile'></div>
-
-----
-
-## 🎈 42 School Profile
-<p align="center">
-<a href="https://profile.intra.42.fr/users/romoreno"><img src="https://badge.mediaplus.ma/darkblue/romoreno?1337Badge=off&UM6P=off" alt="romoreno's 42 stats" /></a>
-</p>
 
 <div id='skills'></div>
 
@@ -70,3 +62,20 @@
 
 ### In the last 30 days... ⌛
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=romoreno-dev&radius=16&theme=react-dark&area=true&order=5&hide_border=true&hide_title=false"/>
+
+<div id='profile'></div>
+
+----
+
+## 🎈 42 School Profile
+<p align="center">
+<a href="https://profile.intra.42.fr/users/romoreno"><img src="https://badge.mediaplus.ma/darkblue/romoreno?1337Badge=off&UM6P=off" alt="romoreno's 42 stats" /></a>
+</p>
+
+[C piscine](https://github.com/romoreno-dev/42-piscine)  
+[libft - ft_printf - get_next_line](https://github.com/romoreno-dev/42-libft-printf-gnl)    
+[minitalk](https://github.com/romoreno-dev/42-minitalk)    
+[push_swap](https://github.com/romoreno-dev/42-push-swap)    
+[fract-ol](https://github.com/romoreno-dev/42-fract-ol)  
+[philosophers](https://github.com/romoreno-dev/42-philosophers)  
+
