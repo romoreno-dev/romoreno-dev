@@ -62,9 +62,6 @@
 ----
 
 ## 🎈 42 Projects
-<p align="center">
-<a href="https://profile.intra.42.fr/users/romoreno"><img src="https://badge.mediaplus.ma/darkblue/romoreno?1337Badge=off&UM6P=off" alt="romoreno's 42 stats" /></a>
-</p>
 
 [C piscine](https://github.com/romoreno-dev/42-piscine)  
 [libft - ft_printf - get_next_line](https://github.com/romoreno-dev/42-libft-printf-gnl)    
