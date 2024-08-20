@@ -26,7 +26,7 @@
 
 <span style="font-size:smaller;">Learning...</span>
 
-![](https://skillicons.dev/icons?i=angular)
+![](https://skillicons.dev/icons?i=kotlin,angular)
 
 ### Databases
 <img src="https://img.shields.io/badge/Oracle-%23DD4F39.svg?style=flat&logo=oracle&logoColor=white" alt="Java"><img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL"><img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" alt="MariaDB">
